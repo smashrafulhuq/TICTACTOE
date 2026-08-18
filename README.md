@@ -69,10 +69,10 @@ To compile and upload the firmware, ensure the following libraries are installed
 
 ## 👥 Authors
 
-* **S M Ashraful Huq** (ID: 21201694) — Dept. of CSE, BRAC University
-* **Mohammad Mutoasituzzaman** (ID: 22201626) — Dept. of CSE, BRAC University
-* **Md Samsul Huda** (ID: 23301373) — Dept. of CSE, BRAC University
-* **Tarannum Al Akida** (ID: 23101441) — Dept. of CSE, BRAC University
+* **S M Ashraful Huq**  — Dept. of CSE, BRAC University
+* **Mohammad Mutoasituzzaman**  — Dept. of CSE, BRAC University
+* **Md Samsul Huda**  — Dept. of CSE, BRAC University
+* **Tarannum Al Akida**  — Dept. of CSE, BRAC University
 
 ---
 
